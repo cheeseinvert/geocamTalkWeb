@@ -1,0 +1,9 @@
+recursive-include doc_src *
+recursive-include docs *
+
+recursive-include geocamTalk/media *
+recursive-include geocamTalk/templates *
+
+include LICENSE
+include README.rst
+include *.txt
